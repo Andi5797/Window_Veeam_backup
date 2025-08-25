@@ -1,2 +1,4 @@
 # Window_Veeam_backup
-License Veeam backup
+Hướng dẫn
+
+https://congdonglinux.com/veeam-backup-replication-12-full-license/
